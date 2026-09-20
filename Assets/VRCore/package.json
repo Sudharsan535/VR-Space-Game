@@ -1,0 +1,33 @@
+{
+  "name": "com.vrcore.hub",
+  "version": "1.0.0",
+  "displayName": "VR Central Hub & Development Suite",
+  "description": "Modular Central Hub and Development Suite for VR & Spatial Computing in Unity. Includes automated VR Package & Dependency Management, Cross-Version Project Settings Configurator, Architecture Folder Scaffolder, VR Performance Profiler & Optimizer, and Dual-Stack (XRI & Meta XR) Scene & Gameplay Interaction Spawner.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/",
+  "changelogUrl": "https://github.com/",
+  "licensesUrl": "https://github.com/",
+  "keywords": [
+    "vr",
+    "xr",
+    "openxr",
+    "meta",
+    "quest",
+    "interaction",
+    "hub",
+    "profiler",
+    "setup",
+    "editor"
+  ],
+  "author": {
+    "name": "VR Development Core Team",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  }
+}
